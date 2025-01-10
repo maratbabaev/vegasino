@@ -991,8 +991,9 @@ footer {
     text-align: center;
   }
   .banner__btn {
-    aspect-ratio: 280/60;
+    aspect-ratio: auto;
     width: 280px;
+    height: 60px;
   }
   .cards__list {
     grid-template-columns: repeat(2, 1fr);
